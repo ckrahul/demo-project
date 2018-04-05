@@ -26,6 +26,8 @@ get_header(); ?>
 					<h1 class="page-title screen-reader-text"><?php single_post_title(); ?></h1>
 				</header>
 
+				<span>Testing text added</span>
+
 				<?php
 			endif;
 
