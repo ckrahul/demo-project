@@ -30,6 +30,8 @@ get_header(); ?>
 
 				<span>Testing text added</span>
 
+				<span>Staging Text added</span>
+
 				<?php
 			endif;
 
