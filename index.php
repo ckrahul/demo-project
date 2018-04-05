@@ -57,5 +57,6 @@ get_header(); ?>
 </div><!-- #primary -->
 
 <?php
+echo "Hello Master from testing";
 get_sidebar();
 get_footer();
