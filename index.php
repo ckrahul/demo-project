@@ -59,8 +59,10 @@ get_header(); ?>
 </div><!-- #primary -->
 
 <?php
-echo "Hello Master from testing";
+echo "Hello Master from testing, second time";
 
 echo "How are you Master from testing";
+
+
 get_sidebar();
 get_footer();
