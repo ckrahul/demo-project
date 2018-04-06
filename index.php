@@ -66,5 +66,6 @@ echo "How are you Master from testing";
 
 echo "Hello Master From Staging";
 
+echo "sdfdsf";
 get_sidebar();
 get_footer();
