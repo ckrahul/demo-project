@@ -60,5 +60,7 @@ get_header(); ?>
 
 <?php
 echo "Hello Master from testing";
+
+echo "How are you Master from testing";
 get_sidebar();
 get_footer();
