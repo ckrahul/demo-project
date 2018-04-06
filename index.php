@@ -68,5 +68,7 @@ echo "How are you Master from testing";
 echo "Hello Master From Staging";
 
 echo "HY";
+
+echo "Hello testing from staging";
 get_sidebar();
 get_footer();
